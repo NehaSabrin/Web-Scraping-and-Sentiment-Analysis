@@ -5,16 +5,16 @@ Prerequisites:
 Python 3.9.x
 
 
-Installation:
-Create a new virtual environment:
-$ python -m venv venv
+Installation:  
+Create a new virtual environment:  
+$ python -m venv venv  
 
-Activate the virtual environment:
-$ source venv/bin/activate  (For Linux)
-$ venv/Scripts/activate  (For Windows)
+Activate the virtual environment:  
+$ source venv/bin/activate  (For Linux)  
+$ venv/Scripts/activate  (For Windows)  
 
-Install packages:
-import requests
-import BeautifulSoup
-import TextBlob
-import nltk
+Install packages:  
+import requests  
+import BeautifulSoup  
+import TextBlob  
+import nltk  
